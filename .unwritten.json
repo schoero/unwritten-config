@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/schoero/unwritten/main/schemas/renderer/config.json",
   "externalModules": {
-    "@types/node": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/node",
+    "@types/node": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/node"
   },
   "renderConfig": {
     "markdown": {
