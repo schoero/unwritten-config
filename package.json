@@ -2,10 +2,7 @@
   "name": "@schoero/unwritten-config",
   "version": "0.0.2",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": ".unwritten.json",
   "keywords": [
     "unwritten"
   ],
